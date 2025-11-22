@@ -1,2 +1,3 @@
 nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04
 qdrant/qdrant
+python:3.10-slim
